@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Loan Info</title>
+    <!-- <link rel="stylesheet" href="/css/site.css" try to create your own CSS> -->
+</head>
+
+<body>
+
+    <main> 
+        <form class="product-form" action="/api/signup" method="POST">
+            <div class="form-control mx auto" style="width: 200px;">
+                <label for="name">Loan Number</label>
+                <input type="text" name="name" id="name">
+                <br>
+                <label for="amount">Loan Amount</label>
+                <input type="text" name="amount" id="amount">
+                <br>
+                <label for="email">Email</label>
+                <br>
+                <input type="text" name="email" id="email">
+                <br>
+                <label for="password">Password:</label>
+                <br>
+                <input type="text" name="password" id="password">
+                <label for="confirmPassword">Confirm Password:</label>
+                <br>
+                <input type="text" name="confirmPassword" id="confirmPassword">
+            </div>
+
+            <button class="btn" type="submit">Add</button>
+        </form>
+    </main>
+</body>
+</html>

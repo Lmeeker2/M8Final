@@ -1,0 +1,32 @@
+[
+    {
+        "Loan": "Loan 1",
+        "name": "John Doe",
+        "amount": 25000,
+        "interest": "7%"
+    },
+    {
+        "Loan": "Loan 2",
+        "name": "Jane Doe",
+        "amount": 3000,
+        "interest": "5%"
+    },
+    {
+        "Loan": "Loan 3",
+        "name": "Jack Frost",
+        "amount": 80000,
+        "interest": "10%"
+    },
+    {
+        "Loan": "Loan 4",
+        "name": "Bob Koizumi",
+        "amount": 2000,
+        "interest": "8%"
+    },
+    {
+        "Loan": "Loan 5",
+        "name": "Bobby Brown",
+        "amount": 40000,
+        "interest": "4%"
+    }
+]
